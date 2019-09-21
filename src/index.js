@@ -52,7 +52,6 @@ function App() {
             {fruit.id}
           </label>
         ))}
-        <input type="submit" />
       </form>
     </div>
   );
